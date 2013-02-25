@@ -1,0 +1,1 @@
+TO test this out, clone it to your computer, then open Chrome and go to the Extension page of the settings and "Load unpacked extension..." and then choose the ChromeExtension directory.
